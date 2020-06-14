@@ -1,0 +1,8 @@
+.Carousel {
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+}
+
+.Carousel__Item {
+  scroll-snap-align: start;
+}
